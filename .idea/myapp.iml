@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="collina" level="application" />
+    <orderEntry type="library" name="fireyejs" level="application" />
+    <orderEntry type="library" name="um" level="application" />
+    <orderEntry type="library" name="et_f" level="application" />
+    <orderEntry type="library" name="index" level="application" />
+    <orderEntry type="library" name="taobao_pc" level="application" />
+    <orderEntry type="library" name="baxiaCommon" level="application" />
+    <orderEntry type="library" name="ns_e_88_3_f" level="application" />
+    <orderEntry type="library" name="sufei-seed" level="application" />
+    <orderEntry type="library" name="eg" level="application" />
+    <orderEntry type="library" name="aplus_v2" level="application" />
+  </component>
+</module>

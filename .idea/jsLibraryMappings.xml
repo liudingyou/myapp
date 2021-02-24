@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{aplus_v2, baxiaCommon, collina, eg, et_f, fireyejs, index, ns_e_88_3_f, sufei-seed, taobao_pc, um}" />
+  </component>
+</project>
